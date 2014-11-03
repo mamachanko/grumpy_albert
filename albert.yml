@@ -1,0 +1,3 @@
+interfaces:
+    albert:
+        class: albert:Albert
